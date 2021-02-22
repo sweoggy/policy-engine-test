@@ -21,3 +21,4 @@ stages:
                         env:
                             USERNAME: $(DEBRICKED_USERNAME)
                             PASSWORD: $(DEBRICKED_PASSWORD)
+                            DEBRICKED_API_URI: https://staging.debricked.com
